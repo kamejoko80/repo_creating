@@ -5,6 +5,7 @@ repo_creating
    https://github.com/yourusername/repo_creating.git
 
 2> From Linux console create a directory name "repo_creating"
+  
    $ mkdir repo_creating
 
    $ cd repo_creating

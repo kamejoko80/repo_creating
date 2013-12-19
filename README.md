@@ -6,9 +6,13 @@ repo_creating
 
 2> From Linux console create a directory name "repo_creating"
    $ mkdir repo_creating
+
    $ cd repo_creating
+
    $ git init
-   $ git config --global user.name "Your Name"   
+
+   $ git config --global user.name "Your Name"
+   
    $ git config --global user.email you@example.com
 
 3> Create new file name test.txt to test commiting
